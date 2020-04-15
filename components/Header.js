@@ -1,7 +1,10 @@
 import React from 'react'
 import NavBar from './NavBar'
+import { useAuth } from '../lib/AuthContext'
 
 const Header = () => {
+  const auth = useAuth()
+
   return (
     <div className='bg-gray-200'>
       <h1>
