@@ -14,7 +14,7 @@
     "@auth0/nextjs-auth0": "^0.11.0",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "geofirestore": "^3.4.1",
     "isomorphic-fetch": "^2.2.1",
     "next": "^9.3.4",
